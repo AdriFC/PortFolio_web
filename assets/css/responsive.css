@@ -95,27 +95,7 @@
 		font-size: 22px;
 	}
 
-	/* Section: Services */
-	.section-services{
-		padding-top: 200px;
-	}
 
-	.section-services .container {
-		padding: 70px 90px;
-	}
-	
-	.service h4 {
-		font-size: 22px; 
-	}
-
-	/* Section: Portfolio */
-	.section-portfolio .col-md-4:nth-last-child(-n+3) .portfolio-item {
-	    margin-bottom: 30px;
-	}
-
-	.section-portfolio .col-md-4:nth-last-child(-n+2) .portfolio-item {
-	    margin-bottom: 0;
-	}
 
 	/* Section: Counters */
 	.section-counters {
