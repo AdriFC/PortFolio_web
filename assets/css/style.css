@@ -314,10 +314,20 @@ html, body {
 
 /* Section: foto-slide */
 
+.item {
+	width: 50%;
+	margin: auto;
+    overflow: hidden;
+  
+}
+
+
+
 .slider {
 	width: 95%;
 	margin: auto;
-	overflow: hidden;
+    overflow: hidden;
+  
 }
 
 .slider ul {
