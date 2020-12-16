@@ -580,6 +580,12 @@ a.icon-up-bg:hover {color: #212121;}
     text-align: center;
 }
 
+/*Eliminar puntos de las listas*/
+#listStyle{
+    list-style: none;
+    padding: 0%;
+}
+
 /*ANIMACIÓN TEXTO CABECERA*/
 
 /* ----------------------------------------------
