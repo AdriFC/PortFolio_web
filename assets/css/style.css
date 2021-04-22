@@ -458,7 +458,8 @@ html, body {
 .modal-header {
     position: relative;
     padding: 0;
-    height: 500px;
+    /* height: 500px; */
+    height: auto;
 }
 
 .modal-header .close {
@@ -678,3 +679,20 @@ a.icon-up-bg:hover {color: #212121;}
 
 /***********************************************************************************************/
 
+
+  @media only screen and (max-width: 1320px) {
+    .modal-vid {
+      float: left;
+      /* align-items: center; */
+      
+    }
+  }
+
+  video{
+        /* margin-left: auto;
+        margin-right: auto; */
+        margin: 0 auto;
+    /* display: block; */
+    
+        
+  }
